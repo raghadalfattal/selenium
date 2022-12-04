@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-26T03:08:53 MST" name="Default suite" finished-at="2022-11-26T03:10:10 MST" duration-ms="77166">
+    <groups>
+    </groups>
+    <test started-at="2022-11-26T03:08:53 MST" name="Default test" finished-at="2022-11-26T03:10:10 MST" duration-ms="77166">
+      <class name="tests.RegistrationTest">
+        <test-method is-config="true" signature="Start()[pri:0, instance:tests.RegistrationTest@60015ef5]" started-at="2022-11-26T03:08:53 MST" name="Start" finished-at="2022-11-26T03:09:19 MST" duration-ms="25717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method signature="register()[pri:0, instance:tests.RegistrationTest@60015ef5]" started-at="2022-11-26T03:09:19 MST" name="register" finished-at="2022-11-26T03:10:10 MST" duration-ms="50703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.RegistrationTest@60015ef5]" started-at="2022-11-26T03:10:10 MST" name="close" finished-at="2022-11-26T03:10:10 MST" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.RegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
